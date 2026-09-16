@@ -1,0 +1,6 @@
+{
+  "name": "MetaCraft Studio - File Version Info Generator",
+  "description": "Professional Windows PE VSVersionInfo metadata generator for PyInstaller and Windows binaries with live visual card preview, real-time code generation, copy, and .txt download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
